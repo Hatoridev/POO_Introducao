@@ -1,2 +1,4 @@
-# POO_Introducao
-Repositório com exemplos do curso de "Programação Orienta a Objetos - Introdução"
+
+# Programação Orientada a Objetos (POO) - Introdução
+
+Repositório com pequenos exemplos, e projetos introduzindo à Progamação Orientada a Objetos - POO
