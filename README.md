@@ -8,47 +8,47 @@ Repository with small examples and projects introducing Object-Oriented Programm
 
    - Update and upgrade Termux:
    
-     ```
+     ```bash
      apt update && apt upgrade
      ```
    
    - Install necessary programming languages:
    
      - Python:
-       ```
+       ```bash
        pkg install python
        ```
      
      - C# (mono):
-       ```
+       ```bash
        pkg install mono
        ```
      
      - C++:
-       ```
+       ```bash
        pkg install clang
        ```
      
      - Java:
-       ```
+       ```bash
        pkg install openjdk-11
        ```
    
    - Clone the repository:
    
-     ```
+     ```bash
      git clone https://github.com/Hatoridev/POO_Introducao.git
      ```
    
    - Navigate to the cloned directory:
    
-     ```
+     ```bash
      cd POO_Introducao
      ```
    
    - Execute Python files:
    
-     ```
+     ```bash
      python filename.py
      ```
    
@@ -56,7 +56,7 @@ Repository with small examples and projects introducing Object-Oriented Programm
 
    - Execute C# files (files with .cs extension):
    
-     ```
+     ```bash
      mcs filename.cs && mono filename.exe
      ```
    
@@ -64,7 +64,7 @@ Repository with small examples and projects introducing Object-Oriented Programm
 
    - Execute C++ files (files with .cpp extension):
    
-     ```
+     ```bash
      clang++ -o filename filename.cpp && ./filename
      ```
    
@@ -72,7 +72,7 @@ Repository with small examples and projects introducing Object-Oriented Programm
 
    - Execute Java files (files with .java extension):
    
-     ```
+     ```bash
      javac filename.java && java filename
      ```
    
@@ -90,29 +90,29 @@ Repository with small examples and projects introducing Object-Oriented Programm
 
    - Update the system:
    
-     ```
+     ```bash
      sudo apt update && sudo apt upgrade
      ```
    
    - Install necessary programming languages:
    
      - Python:
-       ```
+       ```bash
        sudo apt install python
        ```
      
      - C# (mono):
-       ```
+       ```bash
        sudo apt install mono-complete
        ```
      
      - C++:
-       ```
+       ```bash
        sudo apt install g++
        ```
      
      - Java:
-       ```
+       ```bash
        sudo apt install default-jdk
        ```
    
